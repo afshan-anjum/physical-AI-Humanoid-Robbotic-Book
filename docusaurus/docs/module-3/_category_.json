@@ -1,0 +1,8 @@
+{
+  "label": "Module 3: Gazebo",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn to simulate complex robotic environments using the Gazebo simulator."
+  }
+}
