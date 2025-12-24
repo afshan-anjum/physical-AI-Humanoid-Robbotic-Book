@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://gemini-robotics.github.io',
+  url: 'https://github.com/afshan-anjum.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ai-robotics-textbook/',
+  baseUrl: '/physical-AI-Humanoid-Robbotic-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gemini-robotics', // Usually your GitHub org/user name.
-  projectName: 'ai-robotics-textbook', // Usually your repo name.
+  organizationName: 'afshan-anjum', // Usually your GitHub org/user name.
+  projectName: 'physical-AI-Humanoid-Robbotic-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
